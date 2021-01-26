@@ -81,6 +81,4 @@ class MainActivity : AppCompatActivity() {
             else -> return super.onContextItemSelected(item)
         }
     }
-    fun add(){}
-    fun Nikich(){}
 }
