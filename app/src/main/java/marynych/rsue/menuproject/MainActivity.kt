@@ -82,4 +82,5 @@ class MainActivity : AppCompatActivity() {
         }
     }
     fun add(){}
+    fun Nikich(){}
 }
